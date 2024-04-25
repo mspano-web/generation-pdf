@@ -1,4 +1,17 @@
-# generation-pdf
-This development presents an example of how to generate PDF files from data processing.
- 
-This development presents an example of how to generate PDF files from data processing. 
+# PDF:  generacion a partir del procesamiento de datos
+
+La presente iniciativa contiene el codigo de un ejemplo para facilitar la comprension de como generar documentos PDF a partir del procesamiento de datos.
+Es totalmente gratuito y compartido como un aporte a la comunidad. 
+Se apoya en videos que seran publicados en el canal de youtube:  (En construccion). 
+
+___
+
+This initiative contains an example code to facilitate the understanding of how to generate PDF documents from data processing.
+It is completely free and shared as a contribution to the community.
+It is supported by videos that will be published on the YouTube channel: (In construction). 
+___
+
+## Tecnologías / Technologies
+
+* NodeJS
+* TypeScript
