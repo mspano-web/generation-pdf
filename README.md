@@ -16,4 +16,10 @@ ___
 * NodeJS
 * TypeScript
 * PDFkit
-* 
+
+___
+
+## Información del proyecto / Project information
+
+* Developer Web MS - [Youtube](https://youtu.be/q1NKIaTdPYw) - (YOUTUBE)
+ 
